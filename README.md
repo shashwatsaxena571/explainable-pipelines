@@ -8,6 +8,7 @@ Companion repository for my weekly LinkedIn newsletter — code, architecture pa
 
 [![Newsletter](https://img.shields.io/badge/SUBSCRIBE-Explainable_Pipelines-0A0D18?style=for-the-badge&logo=linkedin&logoColor=3CE5FF)](https://www.linkedin.com/newsletters/7488207829871304704/)
 [![LinkedIn](https://img.shields.io/badge/LINKEDIN-saxena--shashwat-0A0D18?style=for-the-badge&logo=linkedin&logoColor=3CE5FF)](https://www.linkedin.com/in/saxena-shashwat/)
+[![X](https://img.shields.io/badge/X-I__m__Shash-0A0D18?style=for-the-badge&logo=x&logoColor=3CE5FF)](https://x.com/I_m_Shash)
 [![Portfolio](https://img.shields.io/badge/PORTFOLIO-SHASHWAT.SYS-0A0D18?style=for-the-badge&logo=terminal&logoColor=3CE5FF)](https://shashwatsaxena571.github.io/)
 
 </div>
